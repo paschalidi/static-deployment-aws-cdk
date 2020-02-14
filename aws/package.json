@@ -1,0 +1,36 @@
+{
+  "name": "aws",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cdk": "cdk"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-cdk/aws-cloudfront": "^1.23.0",
+    "@aws-cdk/aws-s3": "^1.23.0",
+    "@aws-cdk/aws-s3-deployment": "^1.23.0",
+    "@aws-cdk/aws-sns": "^1.23.0",
+    "@aws-cdk/aws-sns-subscriptions": "^1.23.0",
+    "@aws-cdk/aws-sqs": "^1.23.0",
+    "@aws-cdk/core": "^1.23.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^8.0.1",
+    "@types/node": "8.10.59",
+    "@types/semver": "^6.2.1",
+    "@typescript-eslint/eslint-plugin": "^2.19.2",
+    "@typescript-eslint/parser": "^2.19.2",
+    "aws-cdk": "^1.23.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "fs-extra": "^8.1.0",
+    "prettier": "^1.19.1",
+    "semver": "^6.3.0",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
+}
