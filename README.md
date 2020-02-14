@@ -31,4 +31,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Synthesises and deploys the static assets.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
